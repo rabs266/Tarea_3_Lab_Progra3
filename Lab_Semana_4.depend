@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1392340560 source:/home/alexander/Projects/CodeBlocks/Lab_Semana_4/Cocodrilo.cpp
+	"Cocodrilo.h"
+
+1392068362 /home/alexander/Projects/CodeBlocks/Lab_Semana_4/Cocodrilo.h
+	"Enemigo.h"
+
+1392068470 /home/alexander/Projects/CodeBlocks/Lab_Semana_4/Enemigo.h
+	<iostream>
+	"SDL/SDL_image.h"
+
+1392340576 source:/home/alexander/Projects/CodeBlocks/Lab_Semana_4/Enemigo.cpp
+	"Enemigo.h"
+
+1392340577 source:/home/alexander/Projects/CodeBlocks/Lab_Semana_4/Fantasmita.cpp
+	"Fantasmita.h"
+
+1391471659 /home/alexander/Projects/CodeBlocks/Lab_Semana_4/Fantasmita.h
+	"Enemigo.h"
+
+1394161316 source:/home/alexander/Projects/CodeBlocks/Lab_Semana_4/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"Personaje.h"
+	"Fantasmita.h"
+	"Mina.h"
+	"Cocodrilo.h"
+	<vector>
+	<string>
+	<fstream>
+
+1391798823 /home/alexander/Projects/CodeBlocks/Lab_Semana_4/Personaje.h
+	"SDL/SDL_image.h"
+
+1391549164 /home/alexander/Projects/CodeBlocks/Lab_Semana_4/Mina.h
+	"Enemigo.h"
+
+1392340574 source:/home/alexander/Projects/CodeBlocks/Lab_Semana_4/Mina.cpp
+	"Mina.h"
+
+1391193828 source:/home/alexander/Projects/CodeBlocks/Lab_Semana_4/Personaje.cpp
+	"Personaje.h"
+
